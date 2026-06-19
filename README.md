@@ -4,7 +4,7 @@
 ![Lucky](https://img.shields.io/badge/Lucky-v2.27.2-green)
 
 Lucky 是一款面向家庭网络和路由器场景的一体化管理工具，提供动态域名解析（DDNS）、ACME 证书管理、端口转发、Web 服务、计划任务等丰富功能。
-本项目将 **Lucky** 集成到 pfSense WebUI 中，为用户提供便捷的图形化管理界面。
+本项目将 **Lucky** 集成到 OPNsense WebUI 中，为用户提供便捷的图形化管理界面。
 
 已在以下环境测试通过：
 
