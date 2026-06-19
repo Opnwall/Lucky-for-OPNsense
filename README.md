@@ -45,6 +45,7 @@ pkg delete -y os-lucky
 请在 FreeBSD 或 OPNsense 环境中编译：
 
 ```sh
+cd "OPNsense/lucky for OPNsense"
 ABI=native ./build.sh
 ```
 
