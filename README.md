@@ -1,5 +1,6 @@
 # Lucky for OPNsense
 
+![OPNsense](https://img.shields.io/badge/OPNsense-red)
 ![Architecture](https://img.shields.io/badge/Architecture-x86__64-blue)
 ![Lucky](https://img.shields.io/badge/Lucky-v2.27.2-green)
 
